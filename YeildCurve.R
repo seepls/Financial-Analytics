@@ -1,12 +1,3 @@
-'
-GROUP INFORMATION :
-Smriti Tiwari  : 16MA20044
-Yogshree Choukse : 16HS20044
-Soujatya Roy : 16CH10046
-Saharsh Pugalia : 16HS20033
-Nitish Mishra 
-'
-
 
 library(readxl)
 
