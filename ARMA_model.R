@@ -24,7 +24,7 @@ adf.test(count_d1)
 # Applying arma model and converting to object
 
 obj1 = arma(data.ts, order = c(1,1,1))
-
+ 
 #Extracting coefficients
 obj1$coef
 
