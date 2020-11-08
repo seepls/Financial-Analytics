@@ -10,7 +10,7 @@ Course Content
 6. Volatility Smiles
 7. American and European Option Pricing
 8. Binomial Option Pricing Model
-9. Casuality Test : Granger causality test is a statistical hypothesis test for determining whether one time series is useful in forecasting another
+9. Causality Test : Granger causality test is a statistical hypothesis test for determining whether one time series is useful in forecasting another
 10. Volatility Modelling and Forcasting
 11. FEX:Analysis : Inflation, Descriptive Statistics, Unit root test, Structural Break, Co-Integration Test
 12. Efficient Frontier
