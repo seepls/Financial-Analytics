@@ -5,7 +5,7 @@ Course Content
 1. CAPM : Capital Asset Pricing Model
 2. Valuation of IPO (initial public offering)
 3. Bond Pricing
-4. Mututal Fund creation
+4. Mutual Fund creation
 5. Yeild Curve
 6. Volatility Smiles
 7. American and European Option Pricing
