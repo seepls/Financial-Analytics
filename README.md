@@ -1,7 +1,6 @@
 ### Financial-Analytics
-Codes for the Course Financial Analytics : BM49002
 
-Course Content 
+Content 
 1. CAPM : Capital Asset Pricing Model
 2. Valuation of IPO (initial public offering)
 3. Bond Pricing
